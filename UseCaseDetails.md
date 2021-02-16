@@ -11,9 +11,10 @@ This workshop is built around a use case of waiving the shipping fees for a loya
   Your facilitator and the workshop date will be assigned to you after you complete your registration.
 
 **Prior to starting the workshop, download this repository to import artifacts like APISpecs**
-![Download](/images/gitzip1.png)
+https://github.com/tibco-anz/TIBCO-Cloud-Integration-Fast-Track-Workshop
 
-<img src="/images/poll.png" alt="poll" width=30 height=30 style="float:right"/> 
+![Download](/images/ozgitzip1.png)
+
 
 ## Workshop Overview
 During this COVID crisis, many storefronts are closed. Retailers are increasingly trying to compensate through online sales.
@@ -56,15 +57,3 @@ Providing a better customer experience can be achieved using TIBCO Cloud Integra
 
 ## Let's begin the process by collaborating with Business Teams on 'Special COVID Shipment Waiver' project
 ### Next step: [Collaboration starts from defining and testing the API Spec visually](0.apispec.md)
-
-
-## *Below section is ONLY for the TIBCO Workshop facilitator*
-
-### Pre requisites from TIBCO Workshop facilitator
-Please visit the internal TIBCO location provided below to
-1) Verify the participants
-2) Enable the LiveApps for sharing, referenced in section - [Importing a Low Code Business App](3.5.lowcodeappimportactivate.md)
-3) Create a CRM Database referenced in section - [Creating a connection to CRM DB](2.apiimplementation.md/#creating-a-connection-to-crm-db)
-
-INTERNAL TIBCO LOCATION FOR WORKSHOP FACILITATOR:
-https://drive.google.com/drive/folders/1y1sXRP5U7D8_FRQtzTwdLOiilriOxxA9?usp=sharing
