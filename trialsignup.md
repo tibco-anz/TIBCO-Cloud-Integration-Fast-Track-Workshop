@@ -6,21 +6,29 @@ The following instructions walk you through getting your environment all setup.
 In a new tab, follow this URL, [https://cloud.tibco.com/cloud-services](https://cloud.tibco.com/cloud-services).  
 
 In **TIBCO Cloud Integration**, select **FREE TRIAL**.
-![Cloud Integration Free Trial](images/oz1.png "Cloud Integration Free Trial")
+
+<img src="./images/oz1.png" alt="Cloud Integration Free Trial" width=1000/>
 
 In the Trial Sign Up form, select **AWS** as the hosting environment. Enter your details and be sure to enter a valid email address. 
 Make sure the AWS instance is hosted in **Australia** (which is the default instance for most of the Asian countries) to start your free trial.
-![Cloud Integration Signup](images/oz1.1.png "Cloud Integration Signup")
+
+<img src="./images/oz1.1.png" alt="Cloud Integration Signup" width=1000/>
 
 In about 30 seconds your cloud environment will be ready.  You'll receive an email to verify, activate, and set the password on your account.
-![Cloud Integration Signup Confirmation](images/oz1.2.png "Cloud Integration Confirmation")
+
+<img src="./images/oz1.2.png" alt="Cloud Integration Confirmation" width=500/>
 
 In the **Trial Subscription Email**, 
-Click activate  
+Select **Activate your account** 
+(Note: If your default web browser is not Chrome, right-click against the **Activate your account** button and copy the link. Open Chrome and paste the link to the web address) 
 
 <img src="./images/oz2.png" alt="Activate Trial" width=500/>
 
-and fill in the details of the **Welcome Form** 
+In the **TIBCO Cloud** login page, enter email address and password to login
+
+<img src="./images/2.png" alt="Login" width=500/>
+
+fill in the details of the **Welcome Form** 
 
 <img src="./images/oz3.png" alt="Welcome Form" width=500/>
 
