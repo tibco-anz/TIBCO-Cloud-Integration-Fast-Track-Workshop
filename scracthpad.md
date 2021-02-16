@@ -6,14 +6,19 @@ This file contains text snippets you'll need during the workshop to save you typ
 
 ### Naming
 
+API Group: 
+```
+ShipmentWaiverProject
+```
+
 API: 
 ```
-BillPayment
+Shipment Waiver
 ```
 
 Resource:
 ```
-/billPayment
+/shipmentWaiver
 ```
 
 API Key:
@@ -21,42 +26,51 @@ API Key:
 api_key
 ```
 
-### BillPaymentRequest
+### ShipmentWaiverRequest
 
 Sample Request:
 ```
-{
-    "billId": "12345",
-    "totalAmount": {
-        "unit": "AUD",
-        "value": 24.95
+{ 
+    "customer" : { 
+        "loginid" : "johndoe@tibco.com" 
     },
-    "paymentMethod": {
-        "id": "15492654",
-        "referredType": "Voucher"
+    "order" : {
+        "id" : "1", 
+        "shipping amount" : 10, 
+        "Total amount" : 100
     }
 }
 ```
 
 Schema Name:
 ```
-BillPaymentRequest
+ShipmentWaiverInput
 ```
 
-### BillPaymentResponse
+### ShipmentWaiverResponse
 
-Sample Reponse:
+Sample Response:
 ```
-{
-    "id": "323553",
-    "paymentDate": "2020-01-08T12:06:38.230Z"
+{ 
+    "OrderSummary": { 
+        "Message": "Shipment Waived Successfully", 
+        "Order Number": "318441" 
+    } 
 }
 ```
 
 Schema Name:
 ```
-BillPaymentResponse
+ShipmentWaiverOutput
 ```
+
+
+
+
+
+
+
+
 
 ## Exposing an API
 
