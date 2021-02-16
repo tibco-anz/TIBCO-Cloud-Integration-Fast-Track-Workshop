@@ -24,21 +24,21 @@ Select **Activate your account**
 
 <img src="./images/oz2.png" alt="Activate Trial" width=500/>
 
-In the **TIBCO Cloud** login page, enter email address and password to login
+In the **TIBCO Cloud Activate Your Account** page, enter email address and password to login
 
 <img src="./images/2.png" alt="Login" width=500/>
 
-fill in the details of the **Welcome Form** 
+Fill in the details of the **Welcome Form** 
 
 <img src="./images/oz3.png" alt="Welcome Form" width=500/>
 
-close the **Welcome to TCI Capabilities Form** 
+Close the **Welcome to TCI Capabilities Form** 
 
 <img src="./images/oz3.1.png" alt="Close Prompt" width=500/>
 
-you are setup with **TIBCO Cloud Integration**
+You are setup with **TIBCO Cloud Integration**
 
-<img src="./images/oz4.png" alt="TIBCO Cloud Integration" width=500/>
+<img src="./images/oz4.png" alt="TIBCO Cloud Integration" width=1000/>
 
 
 Add the remaining Live Apps Subscription needed for the workshop .  To add the additional capability, click on **Subscriptions**.
