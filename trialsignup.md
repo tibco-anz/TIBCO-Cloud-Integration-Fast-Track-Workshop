@@ -52,11 +52,11 @@ Click on the **Add Subscription** links.  Either link will work just fine.
 
 <img src="./images/ozAddLiveApp.png" alt="Add subscriptions" width=500/>
 
-Add Live Apps subscriptions to your trial by clicking on the **Free trial** button.
+Add Live Apps subscription to your trial by clicking on the **Free trial** button.
 
 <img src="./images/liveapp_freetrial.png" alt="Live Apps Free Trial" width=500/>
 
-Enter the your details and ensure it is at AWS Austrlia instance
+Enter your details and ensure it is at AWS Australia instance
 
 <img src="./images/ozAddLiveApp2.png" alt="Live Apps Subscription" width=500/>
 
