@@ -5,6 +5,7 @@ The workshop requires a TIBCO Cloud account. Within that Cloud account, you'll s
 The following instructions walk you through getting your environment all setup.
 In a new tab, follow this URL, [https://cloud.tibco.com/cloud-services](https://cloud.tibco.com/cloud-services).  
 
+## TIBCO Cloud Integration Subscription
 In **TIBCO Cloud Integration**, select **FREE TRIAL**.
 
 <img src="./images/oz1.png" alt="Cloud Integration Free Trial" width=1000/>
@@ -41,17 +42,27 @@ You are setup with **TIBCO Cloud Integration**
 <img src="./images/oz4.png" alt="TIBCO Cloud Integration" width=1000/>
 
 
-Add the remaining Live Apps Subscription needed for the workshop .  To add the additional capability, click on **Subscriptions**.
+## TIBCO Cloud Live Apps Subscription
+Next, Sign up for **Live Apps Subscription**,
+To add the additional capability, click on **Subscriptions**.
 
-![Subscription](images/homepage_subscription.png "Add subscriptions")
+<img src="./images/ozhomeSub.png" alt="Add subscriptions" width=1000/>
 
 Click on the **Add Subscription** links.  Either link will work just fine.
 
-![Add Subscription](images/add_subscription.png "Add Subscription")
+<img src="./images/ozAddLiveApp.png" alt="Add subscriptions" width=500/>
 
 Add Live Apps subscriptions to your trial by clicking on the **Free trial** button.
 
-<img src="./images/liveapp_freetrial.png" alt="Spotfire Free Trial" width=400/>
+<img src="./images/liveapp_freetrial.png" alt="Live Apps Free Trial" width=500/>
+
+Enter the your details and ensure it is at AWS Austrlia instance
+
+<img src="./images/ozAddLiveApp2.png" alt="Live Apps Subscription" width=500/>
+
+## TIBCO Cloud Mashery Subscription
+Next, Sign up for **Cloud Mashery Subscription**,
+
 
 That's it!  You're ready for the workshop.
 
