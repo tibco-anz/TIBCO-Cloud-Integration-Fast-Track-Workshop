@@ -59,7 +59,7 @@ Schema Name:
 ShipmentWaiverOutput
 ```
 
-## API Development
+## API Implementation
 
 ### Database Connection
 
@@ -93,6 +93,34 @@ Password:
 ******** (Provide by workshop facilitator)
 ```
 
+### Implement an App
+
+App Name:
+```
+ShipmentWaiverApp
+```
+
+Trigger's Port:
+```
+9001
+```
+
+MySQL Activity Name:
+```
+FetchCustomerDetails
+```
+
+MySQL Activity SQL Statement:
+```
+select * from customer_details where Email=?para_email;
+```
+
+### Import App and Enable it as Cloud Mesh 
+
+App Name:
+```
+CreateMarketoLeadFlow
+```
 
 
 
