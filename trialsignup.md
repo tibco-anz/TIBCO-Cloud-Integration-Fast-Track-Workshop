@@ -68,7 +68,7 @@ To add the additional capability, click on **Subscriptions**.
 
 TIBCO Cloud Mashery is currently hosted at the AWS US Oregon region. Select **Sydney** and change it to **Oregon**
 
-<img src="./images/ozChangeUSRegion.png" alt="Change AWS Region" width=500/>
+<img src="./images/ozChangeUSRegion.png" alt="Change AWS Region" width=1000/>
 
 Click on the **Add Subscription** links.  Either link will work just fine.
 
@@ -82,6 +82,7 @@ Enter your details and the default AWS instance will be at United States.
 
 <img src="./images/ozAddMashery2.png" alt="Add Mashery subscription" width=500/>
 
-That's it!  You're ready for the workshop.
+That's it! 
+You're ready for the workshop.
 
 Next step: [Go Back to where you left off at the Introduction Page 'here' ](README.md#workshop-overview)
