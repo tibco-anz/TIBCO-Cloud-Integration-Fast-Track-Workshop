@@ -62,8 +62,27 @@ Enter your details and ensure it is at AWS Australia instance
 
 ## TIBCO Cloud Mashery Subscription
 Next, Sign up for **Cloud Mashery Subscription**,
+To add the additional capability, click on **Subscriptions**.
 
+<img src="./images/ozhomeSub.png" alt="Add subscriptions" width=1000/>
 
-That's it!  You're ready for the workshop.
+TIBCO Cloud Mashery is currently hosted at the AWS US Oregon region. Select **Sydney** and change it to **Oregon**
+
+<img src="./images/ozChangeUSRegion.png" alt="Change AWS Region" width=1000/>
+
+Click on the **Add Subscription** links.  Either link will work just fine.
+
+<img src="./images/ozAddMashery.png" alt="Add Mashery subscription" width=500/>
+
+Add Mashery subscription to your trial by clicking on the **Free trial** button.
+
+<img src="./images/ozMasheryfreetrial.png" alt="Mashery Free Trial" width=500/>
+
+Enter your details and the default AWS instance will be at United States.
+
+<img src="./images/ozAddMashery2.png" alt="Add Mashery subscription" width=500/>
+
+That's it! 
+You're ready for the workshop.
 
 Next step: [Go Back to where you left off at the Introduction Page 'here' ](README.md#workshop-overview)

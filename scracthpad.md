@@ -21,11 +21,6 @@ Resource:
 /shipmentWaiver
 ```
 
-API Key:
-```
-api_key
-```
-
 ### ShipmentWaiverRequest
 
 Sample Request:
@@ -64,8 +59,39 @@ Schema Name:
 ShipmentWaiverOutput
 ```
 
+## API Development
 
+### Database Connection
 
+Name:
+```
+custDB
+```
+
+Host:
+```
+mysqltciinstance.ccvct4moy0lt.us-east-1.rds.amazonaws.com
+```
+
+Port:
+```
+3306
+```
+
+Database Name:
+```
+CustomerDB
+```
+
+User:
+```
+******** (Provide by workshop facilitator)
+```
+
+Password:
+```
+******** (Provide by workshop facilitator)
+```
 
 
 
