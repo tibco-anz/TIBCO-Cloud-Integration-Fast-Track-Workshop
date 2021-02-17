@@ -122,8 +122,38 @@ App Name:
 CreateMarketoLeadFlow
 ```
 
+## Putting all together - Import an Prebuilt Flogo App 
 
+App Name:
+```
+ShipmentWaiverFlow
+```
 
+LogMarketoOutput Message mapping:
+```
+string.tostring($activity[InvokeMarketoService].responseCodes["200"])
+```
+### Testing the Flogo App
+
+loginid:
+```
+"jtamboli@tibco.com"
+```
+
+order id:
+```
+"4"
+```
+
+Total amount:
+```
+100
+```
+
+Shipping amount:
+```
+10
+```
 
 
 ## Exposing an API
