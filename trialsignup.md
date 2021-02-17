@@ -11,7 +11,7 @@ In **TIBCO Cloud Integration**, select **FREE TRIAL**.
 <img src="./images/oz1.png" alt="Cloud Integration Free Trial" width=1000/>
 
 In the Trial Sign Up form, select **AWS** as the hosting environment. Enter your details and be sure to enter a valid email address. 
-Make sure the AWS instance is hosted in **Australia** (which is the default instance for most of the Asian countries) to start your free trial.
+Make sure the AWS instance is hosted in **Australia** (which is the default instance for most countries in Asia Pacific region) to start your free trial.
 
 <img src="./images/oz1.1.png" alt="Cloud Integration Signup" width=1000/>
 

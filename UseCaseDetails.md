@@ -4,13 +4,13 @@ This workshop is built around a use case of waiving the shipping fees for a loya
 
 ## Pre-requisites
 
-**The workshop requires a TIBCO Cloud account.**  You can get started with a [free TIBCO Cloud trial account](trialsignup.md) in 30 seconds.
+1 - **The workshop requires a TIBCO Cloud account.**  You can get started with a [free TIBCO Cloud trial account](trialsignup.md) in 30 seconds.
 
-**The workshop requires a TIBCO Workshop facilitator.**
+2 - **The workshop requires a TIBCO Workshop facilitator.**
   If you haven't completed the registration yet (as shown in previous page), please do so from [here](https://www.tibco.com/tibco-cloud-integration-workshop)
   Your facilitator and the workshop date will be assigned to you after you complete your registration.
 
-**Prior to starting the workshop, download this repository to import artifacts like APISpecs**
+3 - **Prior to starting the workshop, download this repository to import artifacts like APISpecs**
 https://github.com/tibco-anz/TIBCO-Cloud-Integration-Fast-Track-Workshop
 
 ![Download](/images/ozgitzip1.png)
