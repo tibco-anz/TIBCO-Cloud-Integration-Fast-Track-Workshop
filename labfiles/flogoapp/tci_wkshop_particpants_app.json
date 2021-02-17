@@ -29,6 +29,7 @@
                     "filename": "shipmentwaiver-tci-wkshop-1.json",
                     "content": "data:application/json;base64,ewogICJzd2FnZ2VyIjogIjIuMCIsCiAgImluZm8iOiB7CiAgICAidmVyc2lvbiI6ICIxLjAiLAogICAgInRpdGxlIjogImFrX2p0X3RjaV93b3Jrc2hvcCIsCiAgICAieC1sYXN0TW9kaWZpZWQiOiAiMjAyMC0wNS0yMVQxNTozNzoyNy4wMDBaIgogIH0sCiAgInBhdGhzIjogewogICAgIi9zaGlwbWVudHdhaXZlciI6IHsKICAgICAgInBvc3QiOiB7CiAgICAgICAgInByb2R1Y2VzIjogWwogICAgICAgICAgImFwcGxpY2F0aW9uL2pzb24iCiAgICAgICAgXSwKICAgICAgICAicmVzcG9uc2VzIjogewogICAgICAgICAgIjIwMCI6IHsKICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIlN1Y2Nlc3MgcmVzcG9uc2UiLAogICAgICAgICAgICAic2NoZW1hIjogewogICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvc2hpcG1lbnR3YWl2ZXJyZXNwb25zZSIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgImV4YW1wbGVzIjogewogICAgICAgICAgICAgICJhcHBsaWNhdGlvbi9qc29uIjogewogICAgICAgICAgICAgICAgIk9yZGVyU3VtbWFyeSI6IHsKICAgICAgICAgICAgICAgICAgIk1lc3NhZ2UiOiAiMzE4ODQ0MSIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJwYXJhbWV0ZXJzIjogWwogICAgICAgICAgewogICAgICAgICAgICAibmFtZSI6ICJib2R5IiwKICAgICAgICAgICAgImluIjogImJvZHkiLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAic2hpcG1lbnQgd2FpdmVyIHJlcXVlc3QiLAogICAgICAgICAgICAic2NoZW1hIjogewogICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvc2hpcG1lbnR3YWl2ZXJyZXF1ZXN0IgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAib3BlcmF0aW9uSWQiOiAicG9zdFNhbGVzb3JkZXIiLAogICAgICAgICJjb25zdW1lcyI6IFsKICAgICAgICAgICJhcHBsaWNhdGlvbi9qc29uIgogICAgICAgIF0KICAgICAgfQogICAgfQogIH0sCiAgImRlZmluaXRpb25zIjogewogICAgInNhbGVzb3JkZXJyZXF1ZXN0IjogewogICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAidXVpZCI6IHsKICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAiZGVmYXVsdCI6ICJzMSIKICAgICAgICB9LAogICAgICAgICJJdGVtSWQiOiB7CiAgICAgICAgICAidHlwZSI6ICJzdHJpbmciLAogICAgICAgICAgImRlZmF1bHQiOiAiMDAxIgogICAgICAgIH0sCiAgICAgICAgIkl0ZW1jb3VudCI6IHsKICAgICAgICAgICJ0eXBlIjogImludGVnZXIiLAogICAgICAgICAgImRlZmF1bHQiOiAzCiAgICAgICAgfSwKICAgICAgICAiY2xpZW50dGltZXN0YW1wIjogewogICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICJkZWZhdWx0IjogIjIwMjAtMDItMDMgMDQ6MzI6MzguOTQwIgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgICJzaGlwbWVudHdhaXZlcnJlcXVlc3QiOiB7CiAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICJjdXN0b21lciI6IHsKICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgImxvZ2luaWQiOiB7CiAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICAgICAiZm9ybWF0IjogImVtYWlsIiwKICAgICAgICAgICAgICAiZGVmYXVsdCI6ICJqdGFtYm9saUB0aWJjby5jb20iCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJvcmRlciI6IHsKICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgImlkIjogewogICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAgICAgImRlZmF1bHQiOiAiZ2hoZyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgInNoaXBwaW5nIGFtb3VudCI6IHsKICAgICAgICAgICAgICAidHlwZSI6ICJpbnRlZ2VyIiwKICAgICAgICAgICAgICAiZGVmYXVsdCI6IDEwCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJUb3RhbCBhbW91bnQiOiB7CiAgICAgICAgICAgICAgInR5cGUiOiAiaW50ZWdlciIsCiAgICAgICAgICAgICAgImRlZmF1bHQiOiAyMAogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgIkdpdmVOZXdTY2hlbWFOYW1lSGVyZSI6IHsKICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgIk9yZGVyU3VtbWFyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgIk1lc3NhZ2UiOiB7CiAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICAgICAiZGVmYXVsdCI6ICIzMTg4NDQxIgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgInNoaXBtZW50d2FpdmVycmVzcG9uc2UiOiB7CiAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICJPcmRlclN1bW1hcnkiOiB7CiAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICJNZXNzYWdlIjogewogICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAgICAgImRlZmF1bHQiOiAiMzE4ODQ0MSIKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KfQ=="
                 },
+                "swaggerVersion": "v2",
                 "secureConnection": false,
                 "serverKey": "",
                 "caCertificate": ""
@@ -89,11 +90,6 @@
                             }
                         },
                         "output": {
-                            "headers": {
-                                "type": "json",
-                                "value": "{\"type\":\"object\",\"properties\":{\"Accept\":{\"type\":\"string\",\"visible\":false},\"Accept-Charset\":{\"type\":\"string\",\"visible\":false},\"Accept-Encoding\":{\"type\":\"string\",\"visible\":false},\"Content-Type\":{\"type\":\"string\",\"visible\":false},\"Content-Length\":{\"type\":\"string\",\"visible\":false},\"Connection\":{\"type\":\"string\",\"visible\":false},\"Cookie\":{\"type\":\"string\",\"visible\":false},\"Pragma\":{\"type\":\"string\",\"visible\":false}},\"required\":[]}",
-                                "fe_metadata": "[{\"parameterName\":\"Accept\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Accept-Charset\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Accept-Encoding\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Content-Type\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Content-Length\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Connection\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Cookie\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false},{\"parameterName\":\"Pragma\",\"type\":\"string\",\"repeating\":\"false\",\"required\":\"false\",\"visible\":false}]"
-                            },
                             "body": {
                                 "type": "json",
                                 "value": "{\"type\":\"object\",\"properties\":{\"customer\":{\"type\":\"object\",\"properties\":{\"loginid\":{\"type\":\"string\",\"format\":\"email\",\"default\":\"jtamboli@tibco.com\"}}},\"order\":{\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"string\",\"default\":\"ghhg\"},\"shipping amount\":{\"type\":\"integer\",\"default\":10},\"Total amount\":{\"type\":\"integer\",\"default\":20}}}}}",
@@ -176,11 +172,32 @@
                         "activity": {
                             "ref": "#query",
                             "input": {
-                                "Connection": "conn://57cf1770-c05e-11ea-af65-b3f8d72afe7f",
+                                "Connection": "conn://1edda6d0-70bb-11eb-a2a9-858e42295c68",
                                 "QueryName": "",
-                                "Query": "select FirstName, LastName, PostalCode, State, Country, LoyalCustomer from customer_details where Email=?;",
+                                "Query": "select FirstName, LastName, PostalCode, State, Country, LoyalCustomer from customer_details where Email=?para_email;",
                                 "manualmode": false,
                                 "Fields": [
+                                    {
+                                        "FieldName": "para_email",
+                                        "Type": "VARCHAR",
+                                        "Selected": false,
+                                        "Parameter": true,
+                                        "isEditable": false
+                                    },
+                                    {
+                                        "FieldName": "FirstName",
+                                        "Type": "VARCHAR",
+                                        "Selected": true,
+                                        "Parameter": false,
+                                        "isEditable": false
+                                    },
+                                    {
+                                        "FieldName": "LastName",
+                                        "Type": "VARCHAR",
+                                        "Selected": true,
+                                        "Parameter": false,
+                                        "isEditable": false
+                                    },
                                     {
                                         "FieldName": "PostalCode",
                                         "Type": "CHAR",
@@ -208,34 +225,13 @@
                                         "Selected": true,
                                         "Parameter": false,
                                         "isEditable": false
-                                    },
-                                    {
-                                        "FieldName": "",
-                                        "Type": "CHAR",
-                                        "Selected": false,
-                                        "Parameter": true,
-                                        "isEditable": false
-                                    },
-                                    {
-                                        "FieldName": "FirstName",
-                                        "Type": "VARCHAR",
-                                        "Selected": true,
-                                        "Parameter": false,
-                                        "isEditable": false
-                                    },
-                                    {
-                                        "FieldName": "LastName",
-                                        "Type": "VARCHAR",
-                                        "Selected": true,
-                                        "Parameter": false,
-                                        "isEditable": false
                                     }
                                 ],
-                                "State": "73e3a50b-5cc3-473e-a558-7a483dee1ba2select FirstName, LastName, PostalCode, State, Country, LoyalCustomer from customer_details where Email=?;",
+                                "State": "4392ecb2-b4bd-4528-aed3-1d9fb91513e0select FirstName, LastName, PostalCode, State, Country, LoyalCustomer from customer_details where Email=?para_email;",
                                 "input": {
                                     "mapping": {
                                         "parameters": {
-                                            "": "=$flow.customer.loginid"
+                                            "para_email": "=$flow.customer.loginid"
                                         }
                                     }
                                 }
@@ -244,15 +240,15 @@
                                 "input": {
                                     "input": {
                                         "type": "json",
-                                        "value": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"parameters\":{\"type\":\"object\",\"properties\":{\"\":{\"type\":\"string\"}}}}}",
-                                        "fe_metadata": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"parameters\":{\"type\":\"object\",\"properties\":{\"\":{\"type\":\"string\"}}}}}"
+                                        "value": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"parameters\":{\"type\":\"object\",\"properties\":{\"para_email\":{\"type\":\"string\"}}}}}",
+                                        "fe_metadata": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"parameters\":{\"type\":\"object\",\"properties\":{\"para_email\":{\"type\":\"string\"}}}}}"
                                     }
                                 },
                                 "output": {
                                     "Output": {
                                         "type": "json",
-                                        "value": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"records\":{\"type\":\"array\",\"items\":{\"type\":\"object\",\"properties\":{\"PostalCode\":{\"type\":\"string\"},\"State\":{\"type\":\"string\"},\"Country\":{\"type\":\"string\"},\"LoyalCustomer\":{\"type\":\"string\"},\"FirstName\":{\"type\":\"string\"},\"LastName\":{\"type\":\"string\"}}}}}}",
-                                        "fe_metadata": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"records\":{\"type\":\"array\",\"items\":{\"type\":\"object\",\"properties\":{\"PostalCode\":{\"type\":\"string\"},\"State\":{\"type\":\"string\"},\"Country\":{\"type\":\"string\"},\"LoyalCustomer\":{\"type\":\"string\"},\"FirstName\":{\"type\":\"string\"},\"LastName\":{\"type\":\"string\"}}}}}}"
+                                        "value": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"records\":{\"type\":\"array\",\"items\":{\"type\":\"object\",\"properties\":{\"FirstName\":{\"type\":\"string\"},\"LastName\":{\"type\":\"string\"},\"PostalCode\":{\"type\":\"string\"},\"State\":{\"type\":\"string\"},\"Country\":{\"type\":\"string\"},\"LoyalCustomer\":{\"type\":\"string\"}}}}}}",
+                                        "fe_metadata": "{\"$schema\":\"http://json-schema.org/draft-04/schema#\",\"type\":\"object\",\"definitions\":{},\"properties\":{\"records\":{\"type\":\"array\",\"items\":{\"type\":\"object\",\"properties\":{\"FirstName\":{\"type\":\"string\"},\"LastName\":{\"type\":\"string\"},\"PostalCode\":{\"type\":\"string\"},\"State\":{\"type\":\"string\"},\"Country\":{\"type\":\"string\"},\"LoyalCustomer\":{\"type\":\"string\"}}}}}}"
                                     }
                                 }
                             }
@@ -285,6 +281,8 @@
                             "ref": "#rest",
                             "input": {
                                 "enableASR": false,
+                                "swagger": "",
+                                "resourcePath": "",
                                 "Method": "GET",
                                 "Uri": "https://my.api.mockaroo.com/orderschema.json/{id}?key=e6f32000",
                                 "Timeout": 0,
@@ -358,7 +356,8 @@
                             "ref": "#rest",
                             "input": {
                                 "enableASR": true,
-                                "serviceName": "tcius-dGlibG90d3hqYnFmZWJhYnBxa3Q3Z21xZnQ3dnUyaHg",
+                                "swagger": "",
+                                "serviceName": "",
                                 "resourcePath": "/marketoLead",
                                 "Method": "POST",
                                 "Uri": "/gsbc/01ECJPQ1D0Q8K4F88T3JVXQCZ4/tci/tiblotwxjbqfebabpqkt7gmqft7vu2hx",
@@ -454,7 +453,7 @@
                         "activity": {
                             "ref": "#create",
                             "input": {
-                                "applicationId": "4132",
+                                "applicationId": "",
                                 "artifactId": "21105",
                                 "sandboxId": "6103",
                                 "processName": "CreateApprovalFlow",
@@ -498,7 +497,7 @@
                         "activity": {
                             "ref": "#update",
                             "input": {
-                                "applicationId": "4132",
+                                "applicationId": "",
                                 "artifactId": "21106",
                                 "sandboxId": "6103",
                                 "processName": "Waive",
@@ -577,48 +576,73 @@
     ],
     "properties": [
         {
-            "name": "MySQL.tci_mysql_aws.Host",
+            "name": "MySQL.TestcustDB.Host",
             "type": "string",
             "value": "mysqltciinstance.ccvct4moy0lt.us-east-1.rds.amazonaws.com"
         },
         {
-            "name": "MySQL.tci_mysql_aws.Port",
+            "name": "MySQL.TestcustDB.Port",
             "type": "float64",
             "value": 3306
         },
         {
-            "name": "MySQL.tci_mysql_aws.DatabaseName",
+            "name": "MySQL.TestcustDB.Database_Name",
             "type": "string",
             "value": "CustomerDB"
         },
         {
-            "name": "MySQL.tci_mysql_aws.User",
+            "name": "MySQL.TestcustDB.User",
             "type": "string",
             "value": "admin123"
         },
         {
-            "name": "MySQL.tci_mysql_aws.Password",
+            "name": "MySQL.TestcustDB.Password",
             "type": "string",
-            "value": "SECRET:mIh8bKLCGTPYgiP/c3vO127H1AmtTtvN"
+            "value": "SECRET:5oTIhBcwu9bJOGX+ZJxL34EQcC9HJHN8"
+        },
+        {
+            "name": "MySQL.TestcustDB.Maximum_Open_Connections",
+            "type": "float64",
+            "value": 0
+        },
+        {
+            "name": "MySQL.TestcustDB.Maximum_Idle_Connections",
+            "type": "float64",
+            "value": 2
+        },
+        {
+            "name": "MySQL.TestcustDB.Maximum_Connection_Lifetime",
+            "type": "string",
+            "value": 0
         }
     ],
     "connections": {
-        "57cf1770-c05e-11ea-af65-b3f8d72afe7f": {
-            "id": "57cf1770-c05e-11ea-af65-b3f8d72afe7f",
-            "name": "tci_mysql_aws",
+        "1edda6d0-70bb-11eb-a2a9-858e42295c681": {
+            "id": "1edda6d0-70bb-11eb-a2a9-858e42295c681",
+            "name": "TestcustDB",
             "ref": "#connection",
+            "isGlobal": false,
             "settings": {
-                "name": "tci_mysql_aws",
+                "name": "TestcustDB",
                 "description": "",
-                "host": "=$property[\"MySQL.tci_mysql_aws.Host\"]",
-                "port": "=$property[\"MySQL.tci_mysql_aws.Port\"]",
-                "databaseName": "=$property[\"MySQL.tci_mysql_aws.DatabaseName\"]",
-                "user": "=$property[\"MySQL.tci_mysql_aws.User\"]",
-                "password": "=$property[\"MySQL.tci_mysql_aws.Password\"]",
-                "onprem": false
+                "host": "=$property[\"MySQL.TestcustDB.Host\"]",
+                "port": "=$property[\"MySQL.TestcustDB.Port\"]",
+                "databaseName": "=$property[\"MySQL.TestcustDB.Database_Name\"]",
+                "user": "=$property[\"MySQL.TestcustDB.User\"]",
+                "password": "=$property[\"MySQL.TestcustDB.Password\"]",
+                "maxopenconnection": "=$property[\"MySQL.TestcustDB.Maximum_Open_Connections\"]",
+                "maxidleconnection": "=$property[\"MySQL.TestcustDB.Maximum_Idle_Connections\"]",
+                "connmaxlifetime": "=$property[\"MySQL.TestcustDB.Maximum_Connection_Lifetime\"]",
+                "onprem": false,
+                "tlsconfig": false,
+                "tlsparam": "Required",
+                "cacert": "",
+                "clientcert": "",
+                "clientkey": "",
+                "validatecert": false
             }
         }
     },
     "contrib": "W3sicmVmIjoiZ2l0LnRpYmNvLmNvbS9naXQvcHJvZHVjdC9pcGFhcy93aS1jb250cmliLmdpdC9jb250cmlidXRpb25zL0dlbmVyYWwiLCJzM2xvY2F0aW9uIjoiVGliY28vR2VuZXJhbCJ9LHsicmVmIjoiZ2l0LnRpYmNvLmNvbS9naXQvcHJvZHVjdC9pcGFhcy93aS1teXNxbC5naXQvc3JjL2FwcC9NeVNRTCIsInMzbG9jYXRpb24iOiJUaWJjby9NeVNRTCJ9LHsicmVmIjoiZW1lYS1zd2ktc3ZuLmVtZWEudGliY28uY29tL3N2bi9BcmllbC90Y2ktbGl2ZWFwcHMvdHJ1bmsvTGl2ZUFwcHMiLCJzM2xvY2F0aW9uIjoiVGliY28vTGl2ZUFwcHMifV0=",
-    "fe_metadata": "UEsDBAoAAAAIAEFn9lCrqSRGFQAAABMAAAAIAAAAYXBwLmpzb26rViopykxPTy1yy8kvL1ayio6tBQBQSwECFAAKAAAACABBZ/ZQq6kkRhUAAAATAAAACAAAAAAAAAAAAAAAAAAAAAAAYXBwLmpzb25QSwUGAAAAAAEAAQA2AAAAOwAAAAAA"
+    "fe_metadata": "UEsDBAoAAAAIAJo9UVKrqSRGFQAAABMAAAAIAAAAYXBwLmpzb26rViopykxPTy1yy8kvL1ayio6tBQBQSwECFAAKAAAACACaPVFSq6kkRhUAAAATAAAACAAAAAAAAAAAAAAAAAAAAAAAYXBwLmpzb25QSwUGAAAAAAEAAQA2AAAAOwAAAAAA"
 }
