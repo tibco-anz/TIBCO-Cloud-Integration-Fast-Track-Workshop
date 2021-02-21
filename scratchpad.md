@@ -165,46 +165,13 @@ https://account.cloud.tibco.com/launchtenant/MASHERY
 
 Plan Name:
 ```
-BillPayment
 ```
 
 Plan Name:
 ```
-BillPaymentInternal
 ```
 
 ## Registering for an API
 
 Application Name:
-BillPayment
 
-## Orchestrating Services
-
-### Naming
-
-App:
-BillPayment
-
-```
-GetBillDetails
-```
-
-```
-DoPayment
-```
-
-### BillPayment Test Body
-
-```
-{
-    "billId": "325366",
-    "totalAmount": {
-        "unit": "AUD",
-        "value": 29.95
-    },
-    "paymentMethod": {
-        "id": "73432381",
-        "referredType": "Voucher"
-    }
-}
-```
