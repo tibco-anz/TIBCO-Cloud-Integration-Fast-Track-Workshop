@@ -183,3 +183,10 @@ Public API URL:
 ```
 processOrder/v1/shipmentwaiver
 ```
+
+## Add user Application
+
+Application Name:
+```
+ShipmentWaiver_APP
+```
