@@ -156,6 +156,9 @@ Shipping amount:
 ```
 
 
+
+# Optional
+
 ## Mashery-Exposing an API
 
 API Definition:
