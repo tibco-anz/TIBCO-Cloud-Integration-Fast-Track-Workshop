@@ -158,20 +158,20 @@ Shipping amount:
 
 ## Exposing an API
 
+API Definition:
+```
+ShipmentWaiver
+```
+
+Package Name:
+```
+Basic Package
+```
+
+Plan Name:
+```
+Standard Plan
+```
+
 ### TIBCO Cloud Mashery URL
 https://account.cloud.tibco.com/launchtenant/MASHERY
-
-### Package and Plan
-
-Plan Name:
-```
-```
-
-Plan Name:
-```
-```
-
-## Registering for an API
-
-Application Name:
-
