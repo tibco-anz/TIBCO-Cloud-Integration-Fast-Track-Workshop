@@ -115,6 +115,11 @@ MySQL Activity SQL Statement:
 select * from customer_details where Email=?para_email;
 ```
 
+Log Message Activity Name:
+```
+LogCRMOutput
+```
+
 ### Import App and Enable it as Cloud Mesh 
 
 App Name:
@@ -145,66 +150,66 @@ order id:
 "4"
 ```
 
-Total amount:
-```
-100
-```
-
 Shipping amount:
 ```
 10
 ```
 
+Total amount:
+```
+100
+```
 
-## Exposing an API
+
+# Optional
+
+## Mashery-Exposing an API
+
+API Definition:
+```
+ShipmentWaiver
+```
+
+Package Name:
+```
+Basic Package
+```
+
+Plan Name:
+```
+Standard Plan
+```
 
 ### TIBCO Cloud Mashery URL
 https://account.cloud.tibco.com/launchtenant/MASHERY
 
-### Package and Plan
 
-Plan Name:
-```
-BillPayment
-```
+## Mashery-Manage an API
 
-Plan Name:
+Public API URL:
 ```
-BillPaymentInternal
+processOrder/v1/shipmentwaiver
 ```
 
-## Registering for an API
+## Mashery-Add user Application
 
 Application Name:
-BillPayment
-
-## Orchestrating Services
-
-### Naming
-
-App:
-BillPayment
-
 ```
-GetBillDetails
+ShipmentWaiver_APP
 ```
 
-```
-DoPayment
-```
+ ## Mashery-Test Application
 
-### BillPayment Test Body
-
+Sample Request:
 ```
-{
-    "billId": "325366",
-    "totalAmount": {
-        "unit": "AUD",
-        "value": 29.95
+{ 
+    "customer" : { 
+        "loginid" : "johndoe@tibco.com" 
     },
-    "paymentMethod": {
-        "id": "73432381",
-        "referredType": "Voucher"
+    "order" : {
+        "id" : "1", 
+        "shipping amount" : 10, 
+        "Total amount" : 100
     }
 }
 ```
