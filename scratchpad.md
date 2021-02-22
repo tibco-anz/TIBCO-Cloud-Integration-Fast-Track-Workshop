@@ -115,6 +115,11 @@ MySQL Activity SQL Statement:
 select * from customer_details where Email=?para_email;
 ```
 
+Log Message Activity Name:
+```
+LogCRMOutput
+```
+
 ### Import App and Enable it as Cloud Mesh 
 
 App Name:
