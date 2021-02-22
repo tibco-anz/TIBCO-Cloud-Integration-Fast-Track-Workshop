@@ -156,7 +156,7 @@ Shipping amount:
 ```
 
 
-## Exposing an API
+## Mashery-Exposing an API
 
 API Definition:
 ```
@@ -177,16 +177,32 @@ Standard Plan
 https://account.cloud.tibco.com/launchtenant/MASHERY
 
 
-## Manage an API
+## Mashery-Manage an API
 
 Public API URL:
 ```
 processOrder/v1/shipmentwaiver
 ```
 
-## Add user Application
+## Mashery-Add user Application
 
 Application Name:
 ```
 ShipmentWaiver_APP
+```
+
+ ## Mashery-Test Application
+
+Sample Request:
+```
+{ 
+    "customer" : { 
+        "loginid" : "johndoe@tibco.com" 
+    },
+    "order" : {
+        "id" : "1", 
+        "shipping amount" : 10, 
+        "Total amount" : 100
+    }
+}
 ```
