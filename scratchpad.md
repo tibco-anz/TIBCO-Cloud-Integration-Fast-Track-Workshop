@@ -175,3 +175,11 @@ Standard Plan
 
 ### TIBCO Cloud Mashery URL
 https://account.cloud.tibco.com/launchtenant/MASHERY
+
+
+## Manage an API
+
+Public API URL:
+```
+processOrder/v1/shipmentwaiver
+```
