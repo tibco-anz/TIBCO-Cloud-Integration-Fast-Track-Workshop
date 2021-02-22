@@ -145,16 +145,15 @@ order id:
 "4"
 ```
 
-Total amount:
-```
-100
-```
-
 Shipping amount:
 ```
 10
 ```
 
+Total amount:
+```
+100
+```
 
 
 # Optional
