@@ -44,7 +44,7 @@ You are setup with **TIBCO Cloud Integration**
 
 ## TIBCO Cloud Live Apps Subscription
 Next, Sign up for **Live Apps Subscription**,
-Click the TIBCO Cloud link (above the menu itmes) at the top left area to navigate to the TIBCO Cloud landing page as shown.
+Click the TIBCO Cloud link (above the menu items) at the top left area to navigate to the TIBCO Cloud landing page.
 To add the additional capability, click on **Subscriptions**.
 
 <img src="./images/ozhomeSub.png" alt="Add subscriptions" width=1000/>
