@@ -5,6 +5,9 @@ The workshop requires a TIBCO Cloud account. Within that Cloud account, you'll s
 The following instructions walk you through getting your environment all setup.
 In a new tab, follow this URL, [https://cloud.tibco.com/cloud-services](https://cloud.tibco.com/cloud-services).  
 
+**If you are a TIBCO customer or employee, please use your personal email to sign up for the free trial and send us your personal email.**
+
+
 ## TIBCO Cloud Integration Subscription
 In **TIBCO Cloud Integration**, select **FREE TRIAL**.
 
