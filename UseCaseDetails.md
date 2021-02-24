@@ -15,6 +15,13 @@ https://github.com/tibco-anz/TIBCO-Cloud-Integration-Fast-Track-Workshop
 
 ![Download](/images/ozgitzip1.png)
 
+**Additional notes for the workshop:**
+
+- Please use Chrome or Firefox web browser where possible.
+- It is strongly recommended to have two screens for the virtual session. One screen will be for the Zoom session (you can use a tablet such as iPad if you don’t have access to two screens for your computer) and the other screen will be for you to work on workshop activities.
+- If you use a different email address to sign up for the free trial account than the one you used for the workshop registration, please let us know the email address for the trial account by replying to this email (as we will share a Live Apps application to you via that email address during the workshop).
+- If you are a TIBCO customer or employee, please use your personal email to sign up for the free trial and send us your personal email as per above.
+
 
 ## Workshop Overview
 During this COVID crisis, many storefronts are closed. Retailers are increasingly trying to compensate through online sales.
