@@ -160,6 +160,22 @@ Total amount:
 100
 ```
 
+## Deploy and test the App 
+
+Sample Request:
+```
+{
+    "customer": {
+        "loginid": "jtamboli@tibco.com"
+    },
+    "order": {
+        "id": "001",
+        "Total amount": 100,
+        "shipping amount": 10
+    }
+}
+```
+
 
 # Optional
 
