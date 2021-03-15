@@ -2,7 +2,7 @@
 # Usecase for TIBCO Cloud Integration Fast Track Workshop
 This workshop is built around a use case of waiving the shipping fees for a loyal customer.
 
-## Pre-requisites
+## Trial Signup
 
 1 - **The workshop requires a TIBCO Cloud account.**  You can get started with a [free TIBCO Cloud trial account](trialsignup.md) in 30 seconds.
 
