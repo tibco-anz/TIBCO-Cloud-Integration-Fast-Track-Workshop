@@ -100,11 +100,6 @@ App Name:
 ShipmentWaiverApp
 ```
 
-Trigger's Port:
-```
-9001
-```
-
 MySQL Activity Name:
 ```
 FetchCustomerDetails
