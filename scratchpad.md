@@ -115,6 +115,11 @@ Log Message Activity Name:
 LogCRMOutput
 ```
 
+Input Message:
+```
+$activity[FetchCustomerDetails].Output.records[0].FirstName
+```
+
 ### Import App and Enable it as Cloud Mesh 
 
 App Name:
